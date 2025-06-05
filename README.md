@@ -1,4 +1,4 @@
-# LSTM_Project
+LSTM_Project
 
 Youtube Guide: https://youtu.be/94PlBzgeq90?si=HqLrjtbVcEJw-K7n
 
